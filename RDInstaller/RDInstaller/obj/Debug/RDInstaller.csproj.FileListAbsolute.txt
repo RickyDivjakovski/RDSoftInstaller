@@ -1,0 +1,22 @@
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDInstaller\RDInstaller\bin\Debug\RDInstaller.exe.config
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDInstaller\RDInstaller\bin\Debug\RDInstaller.exe
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDInstaller\RDInstaller\bin\Debug\RDInstaller.pdb
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDInstaller\RDInstaller\obj\Debug\RDInstaller.csprojResolveAssemblyReference.cache
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDInstaller\RDInstaller\obj\Debug\RDInstaller.Form1.resources
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDInstaller\RDInstaller\obj\Debug\RDInstaller.Properties.Resources.resources
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDInstaller\RDInstaller\obj\Debug\RDInstaller.csproj.GenerateResource.Cache
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDInstaller\RDInstaller\obj\Debug\RDInstaller.exe
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDInstaller\RDInstaller\obj\Debug\RDInstaller.pdb
+c:\Users\Ricky Divjakovski\Documents\Visual Studio 2015\Projects\RDInstaller\RDInstaller\obj\Debug\Interop.IWshRuntimeLibrary.dll
+c:\Users\Ricky Divjakovski\Documents\Visual Studio 2015\Projects\RDInstaller\RDInstaller\obj\Debug\RDInstaller.csproj.ResolveComReference.cache
+C:\Users\Ricky Divjakovski\Desktop\RDSoftInstaller\RDInstaller\RDInstaller\bin\Debug\RDInstaller.exe.config
+C:\Users\Ricky Divjakovski\Desktop\RDSoftInstaller\RDInstaller\RDInstaller\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Ricky Divjakovski\Desktop\RDSoftInstaller\RDInstaller\RDInstaller\obj\Debug\RDInstaller.csproj.ResolveComReference.cache
+C:\Users\Ricky Divjakovski\Desktop\RDSoftInstaller\RDInstaller\RDInstaller\obj\Debug\RDInstaller.exe
+C:\Users\Ricky Divjakovski\Desktop\RDSoftInstaller\RDInstaller\RDInstaller\obj\Debug\RDInstaller.pdb
+C:\Users\Ricky Divjakovski\Desktop\RDSoftInstaller\RDInstaller\RDInstaller\bin\Debug\RDInstaller.exe
+C:\Users\Ricky Divjakovski\Desktop\RDSoftInstaller\RDInstaller\RDInstaller\bin\Debug\RDInstaller.pdb
+C:\Users\Ricky Divjakovski\Desktop\RDSoftInstaller\RDInstaller\RDInstaller\obj\Debug\RDInstaller.csprojResolveAssemblyReference.cache
+C:\Users\Ricky Divjakovski\Desktop\RDSoftInstaller\RDInstaller\RDInstaller\obj\Debug\RDInstaller.Form1.resources
+C:\Users\Ricky Divjakovski\Desktop\RDSoftInstaller\RDInstaller\RDInstaller\obj\Debug\RDInstaller.Properties.Resources.resources
+C:\Users\Ricky Divjakovski\Desktop\RDSoftInstaller\RDInstaller\RDInstaller\obj\Debug\RDInstaller.csproj.GenerateResource.Cache

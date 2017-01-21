@@ -1,0 +1,17 @@
+c:\Users\Ricky Divjakovski\Documents\Visual Studio 2015\Projects\RDUninstaller\RDUninstaller\bin\Release\RDUninstaller.exe.config
+c:\Users\Ricky Divjakovski\Documents\Visual Studio 2015\Projects\RDUninstaller\RDUninstaller\bin\Release\RDUninstaller.exe
+c:\Users\Ricky Divjakovski\Documents\Visual Studio 2015\Projects\RDUninstaller\RDUninstaller\bin\Release\RDUninstaller.pdb
+c:\Users\Ricky Divjakovski\Documents\Visual Studio 2015\Projects\RDUninstaller\RDUninstaller\obj\Release\RDUninstaller.Form1.resources
+c:\Users\Ricky Divjakovski\Documents\Visual Studio 2015\Projects\RDUninstaller\RDUninstaller\obj\Release\RDUninstaller.Properties.Resources.resources
+c:\Users\Ricky Divjakovski\Documents\Visual Studio 2015\Projects\RDUninstaller\RDUninstaller\obj\Release\RDUninstaller.csproj.GenerateResource.Cache
+c:\Users\Ricky Divjakovski\Documents\Visual Studio 2015\Projects\RDUninstaller\RDUninstaller\obj\Release\RDUninstaller.exe
+c:\Users\Ricky Divjakovski\Documents\Visual Studio 2015\Projects\RDUninstaller\RDUninstaller\obj\Release\RDUninstaller.pdb
+C:\Users\Ricky Divjakovski\Documents\GitHub\RDSoftInstaller\RDUninstaller\RDUninstaller\bin\Release\RDUninstaller.exe.config
+C:\Users\Ricky Divjakovski\Documents\GitHub\RDSoftInstaller\RDUninstaller\RDUninstaller\obj\Release\RDUninstaller.exe
+C:\Users\Ricky Divjakovski\Documents\GitHub\RDSoftInstaller\RDUninstaller\RDUninstaller\obj\Release\RDUninstaller.pdb
+C:\Users\Ricky Divjakovski\Documents\GitHub\RDSoftInstaller\RDUninstaller\RDUninstaller\obj\Release\RDUninstaller.Form1.resources
+C:\Users\Ricky Divjakovski\Documents\GitHub\RDSoftInstaller\RDUninstaller\RDUninstaller\obj\Release\RDUninstaller.Properties.Resources.resources
+C:\Users\Ricky Divjakovski\Documents\GitHub\RDSoftInstaller\RDUninstaller\RDUninstaller\obj\Release\RDUninstaller.csproj.GenerateResource.Cache
+C:\Users\Ricky Divjakovski\Documents\GitHub\RDSoftInstaller\RDUninstaller\RDUninstaller\bin\Release\RDUninstaller.exe
+C:\Users\Ricky Divjakovski\Documents\GitHub\RDSoftInstaller\RDUninstaller\RDUninstaller\bin\Release\RDUninstaller.pdb
+C:\Users\Ricky Divjakovski\Documents\GitHub\RDSoftInstaller\RDUninstaller\RDUninstaller\obj\Release\RDUninstaller.csprojResolveAssemblyReference.cache
